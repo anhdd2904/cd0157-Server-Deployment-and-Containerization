@@ -8,7 +8,7 @@ Parameters:
 
   EksClusterName:
     Type: String
-    Description: The name of the EKS cluster created
+    Description: The name of the EKS cluster create
     Default: simple-jwt-api
     MinLength: 1
     MaxLength: 100
